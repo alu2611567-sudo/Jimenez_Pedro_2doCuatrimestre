@@ -14,12 +14,12 @@
  if($num1 < $num2){
     echo "$num1 es menor que $num2<br>";
  }
- elseif {
-    echo "$num1 es igual a $num2"
+    else{
+        echo "$num1 no es menor que $num2<br>";
     }
 
  // Condicional switch
- $dia = 3
+ $dia = 3;
  switch ($dia){
     case 1:
         echo "lunes";
@@ -93,7 +93,7 @@
     "Edad" => 30,
     "Ciudad" => "Madrid",
     "Profesion" => "Abogado"
-   )
+   );
 
  foreach($persona as $clave => $valor){
     echo "$clave: $valor<br>";
