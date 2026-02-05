@@ -1,0 +1,4 @@
+- Muy buen trabajo Pedro, sigue así, me da gusto ver que tienes un alto nivel de comprensión
+y que estás desarrollando de muy buena forma tu lógica, esto te ayudará para resolver problemas
+más complicados más adelante.
+- Lo único que me genera ruido es esto: $vocales = preg_match_all('/[aeiouAEIOU]/', $cadena, $coincidencias); ya que realmente, estas son funciones REGEX, es un tema avanzado y que no hemos cubierto, no veo mal que lo hayas usado, pero te pido que lo investigues para ti, para que cuando lo vuelvas a utilizar, lo hagas sabiendo para qué sirve.
