@@ -1,0 +1,1 @@
+- La lógica de tus ejercicios es correcta, sin embargo en ninguno hiciste formulario para enviar los datos a procesar, es por eso que en realidad tus ejercicios no hacen nada, porque no reciben ningún dado. Además, en algunos ejercicios no estás mandando a imprimir nada, no tienes echos.
